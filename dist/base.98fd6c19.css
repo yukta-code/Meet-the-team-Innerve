@@ -7,6 +7,10 @@
 :root {
 	font-size: 13px;
 }
+h1{
+	text-align: center;
+	font-size: 50px;
+}
 
 body {
 	margin: 0;
