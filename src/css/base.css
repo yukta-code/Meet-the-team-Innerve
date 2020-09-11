@@ -10,16 +10,16 @@
 
 body {
 	margin: 0;
-	--color-text: #111;
-	--color-bg: #edeee9;
-	--color-link: #000;
-	--color-link-hover: #000;
-	--color-menu: #000;
+	--color-text: white;
+	--color-bg: black;
+	--color-link: white;
+	--color-link-hover: black;
+	--color-menu: white;
 	--color-menu-hover: #f32015;
 	color: var(--color-text);
-	background-color: var(--color-bg);
-	--cursor-stroke: #000;
-    --cursor-fill: #000;
+	background-color: black;
+	--cursor-stroke: white;
+    --cursor-fill: white;
     --cursor-stroke-width: 1px;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
